@@ -1,0 +1,9 @@
+{
+  "name": "Salesforce Macro Extension",
+  "description": "Adds macros and other functionality to the Salesforce service.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  }
+}
